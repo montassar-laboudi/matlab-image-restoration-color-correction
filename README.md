@@ -106,8 +106,6 @@ matlab-image-restoration-color-correction/
 │   ├── 24-restored-mirrored-image.png
 │   └── 25-final-restored-image.png
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
